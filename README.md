@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marjanovich
-- 🙌 Welcome to my profle.
+- 🙌 Welcome to my profile.
 
 <!---
 marjanovich/marjanovich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
